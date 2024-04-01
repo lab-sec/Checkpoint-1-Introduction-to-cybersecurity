@@ -1,0 +1,10 @@
+     1	
+     2	 01 
+     3	03/22 08:51:01 INFO   :.main: *************** RSVP Agent started ***************
+     4	 02 
+     5	03/22 08:51:01 INFO   :...locate_configFile: Specified configuration file: /u/user10/rsvpd1.conf
+     6	03/22 08:51:01 INFO   :.main: Using log level 511
+     7	03/22 08:51:01 INFO   :..settcpimage: Get TCP images rc - EDC8112I Operation not supported on socket.
+     8	 03 
+     9	03/22 08:51:01 INFO   :..settcpimage: Associate with TCP/IP image name = TCPCS
+    10	03/22 08:51:02 INFO   :..reg_process: registering process with the system

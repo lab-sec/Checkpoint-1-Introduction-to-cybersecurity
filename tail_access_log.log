@@ -1,0 +1,10 @@
+   361	03/22 08:54:53 INFO   :......term_policyAPI: APITerminate:  Entering
+   362	 
+   363	03/22 08:54:53 INFO   :......term_policyAPI: APITerminate:  Exiting
+   364	 
+   365	03/22 08:54:53 INFO   :......term_policyAPI: Policy API terminated
+   366	03/22 08:54:53 INFO   :......dreg_process: deregistering process with the system
+   367	03/22 08:54:53 INFO   :......dreg_process: attempt to dereg (ifaeddrg_byaddr)
+   368	03/22 08:54:53 INFO   :......dreg_process: rc from ifaeddrg_byaddr  rc =0
+   369	03/22 08:54:53 INFO   :.....terminator: process terminated with exit code 0
+   370	
